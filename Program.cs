@@ -2,5 +2,7 @@
  *
  * uwaga: każda klasa, interfejs, klasa abstrakcyjna powinna zostać utworzona w nowym pliku;
  * wszystkie zmienne, klasy, interfejsy mają nazywać się po angielsku
+ * 
+ * Klasy atrakcji: Swing, Slide, Sandbox, Carousel
+ * Klasy użytkowników: Kido, Bully, Dub
  */
-

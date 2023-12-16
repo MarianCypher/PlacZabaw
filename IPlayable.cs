@@ -1,6 +1,9 @@
 ﻿using System;
 
-public interface IPlayable
+namespace PlacZabaw
 {
-    public virtual bool Play();
+    public interface IPlayable
+    {
+        public virtual bool Play();
+    }
 }

@@ -1,0 +1,14 @@
+C:\Users\KNM864\Desktop\000_Motka\Personal\WebDev\C#\Projects\PlacZabaw\bin\Debug\net8.0\PlacZabaw.exe
+C:\Users\KNM864\Desktop\000_Motka\Personal\WebDev\C#\Projects\PlacZabaw\bin\Debug\net8.0\PlacZabaw.deps.json
+C:\Users\KNM864\Desktop\000_Motka\Personal\WebDev\C#\Projects\PlacZabaw\bin\Debug\net8.0\PlacZabaw.runtimeconfig.json
+C:\Users\KNM864\Desktop\000_Motka\Personal\WebDev\C#\Projects\PlacZabaw\bin\Debug\net8.0\PlacZabaw.dll
+C:\Users\KNM864\Desktop\000_Motka\Personal\WebDev\C#\Projects\PlacZabaw\bin\Debug\net8.0\PlacZabaw.pdb
+C:\Users\KNM864\Desktop\000_Motka\Personal\WebDev\C#\Projects\PlacZabaw\obj\Debug\net8.0\PlacZabaw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KNM864\Desktop\000_Motka\Personal\WebDev\C#\Projects\PlacZabaw\obj\Debug\net8.0\PlacZabaw.AssemblyInfoInputs.cache
+C:\Users\KNM864\Desktop\000_Motka\Personal\WebDev\C#\Projects\PlacZabaw\obj\Debug\net8.0\PlacZabaw.AssemblyInfo.cs
+C:\Users\KNM864\Desktop\000_Motka\Personal\WebDev\C#\Projects\PlacZabaw\obj\Debug\net8.0\PlacZabaw.csproj.CoreCompileInputs.cache
+C:\Users\KNM864\Desktop\000_Motka\Personal\WebDev\C#\Projects\PlacZabaw\obj\Debug\net8.0\PlacZabaw.dll
+C:\Users\KNM864\Desktop\000_Motka\Personal\WebDev\C#\Projects\PlacZabaw\obj\Debug\net8.0\refint\PlacZabaw.dll
+C:\Users\KNM864\Desktop\000_Motka\Personal\WebDev\C#\Projects\PlacZabaw\obj\Debug\net8.0\PlacZabaw.pdb
+C:\Users\KNM864\Desktop\000_Motka\Personal\WebDev\C#\Projects\PlacZabaw\obj\Debug\net8.0\PlacZabaw.genruntimeconfig.cache
+C:\Users\KNM864\Desktop\000_Motka\Personal\WebDev\C#\Projects\PlacZabaw\obj\Debug\net8.0\ref\PlacZabaw.dll

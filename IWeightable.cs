@@ -1,9 +1,13 @@
 ﻿using System;
 
-public interface IWeightable
+namespace PlacZabaw
 {
-    public double GetWeight {
-        get;
-        set;
+    public interface IWeightable
+    {
+        double GetWeight
+        {
+            get;
+            set;
+        }
     }
 }
